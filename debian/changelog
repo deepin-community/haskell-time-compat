@@ -1,8 +1,8 @@
-haskell-time-compat (1.9.3-deepin1) unstable; urgency=medium
+haskell-time-compat (1.9.6.1-1) unstable; urgency=medium
 
-  * Rebuild
+  * New upstream version.
 
- -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:42:05 +0800
+ -- Clint Adams <clint@debian.org>  Tue, 14 Jun 2022 22:29:04 -0400
 
 haskell-time-compat (1.9.3-2) unstable; urgency=medium
 
